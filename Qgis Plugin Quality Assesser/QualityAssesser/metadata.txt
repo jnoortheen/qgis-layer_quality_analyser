@@ -1,0 +1,21 @@
+[general]
+name=Quality Assesser
+qgisMinimumVersion=2.0
+
+description=This plugin assess the logical, thematic and temporal accuracy of the layers.
+version=0.1
+author=Project Ms
+email=jnoortheen@gmail.com
+
+tags=
+
+homepage=
+tracker=
+repository=
+icon=icon.png
+# experimental flag
+experimental=True
+
+
+deprecated=False
+

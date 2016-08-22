@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.log
+build/
+dist/
+_tests/
+.idea/
+.vscode/
+city_buffer/

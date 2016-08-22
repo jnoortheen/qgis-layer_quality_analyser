@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/plugins/QualityAssesser">
+        <file>icon.png</file>
+        <file>good.jpg</file>
+		<file>tolerable.jpg</file>
+		<file>bad.jpg</file>
+    </qresource>
+</RCC>
